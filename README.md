@@ -10,7 +10,7 @@
 </div>
 
 ## to add a button for grab cam on a website
-use this javascript in the html or save it in script.js files and add 
+use this javascript in the html or save it in script.js files and add : 
 ```html
 <script src="script.js"></script>
 
