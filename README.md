@@ -101,10 +101,14 @@ redirectURL: "https://xxxxxxx.xxx"
 ### Credits
  * [TechChip](https://github.com/techchipnet/CamPhish) (For His Camphish)
 
-### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/Psi](https://reporoster.com/stars/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/stargazers)
 
-[![Forkers repo roster for @th30neand0nly/Psi](https://reporoster.com/forks/dark/Th30neAnd0nly/Psi)](https://github.com/Th30neAnd0nly/Psi/network/members)
+### Credits
+ * [TechChip](https://github.com/techchipnet/CamPhish) (For His Camphish)
+
+### ❤️Supporters❤️
+[![Stargazers repo roster for @tucommenceapousser/Psi](https://reporoster.com/stars/dark/tucommenceapousser/Psi)](https://github.com/tucommenceapousser/Psi/stargazers)
+
+[![Forkers repo roster for @tucommenceapousser/Psi](https://reporoster.com/forks/dark/tucommenceapousser/Psi)](https://github.com/tucommenceapousser/Psi/network/members)
 
 ## DISCLAIMER
 <p align="center">
