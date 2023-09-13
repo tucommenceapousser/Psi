@@ -9,6 +9,11 @@
 
 </div>
 
+## to add a button for grab cam on a website
+use this javascript in the html or save it in script.js files and add 
+```html
+<script src="script.js"></script>
+
 ```js
 function redirectToChat() {
     window.location.href = "https://psi.juliettemapuche.repl.co";
