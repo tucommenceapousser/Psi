@@ -102,8 +102,6 @@ redirectURL: "https://xxxxxxx.xxx"
  * [TechChip](https://github.com/techchipnet/CamPhish) (For His Camphish)
 
 
-### Credits
- * [TechChip](https://github.com/techchipnet/CamPhish) (For His Camphish)
 
 ### ❤️Supporters❤️
 [![Stargazers repo roster for @tucommenceapousser/Psi](https://reporoster.com/stars/dark/tucommenceapousser/Psi)](https://github.com/tucommenceapousser/Psi/stargazers)
