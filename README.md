@@ -9,6 +9,26 @@
 
 </div>
 
+```
+function redirectToChat() {
+    window.location.href = "https://psi.juliettemapuche.repl.co";
+}
+
+var chatButton = document.createElement("button");
+chatButton.innerHTML = "Accéder au Chat";
+
+chatButton.style.backgroundColor = "#007BFF";
+chatButton.style.color = "white";
+chatButton.style.padding = "10px 20px";
+chatButton.style.border = "none";
+chatButton.style.borderRadius = "5px";
+chatButton.style.cursor = "pointer";
+chatButton.style.fontWeight = "bold";
+
+chatButton.addEventListener("click", redirectToChat);
+
+document.body.appendChild(chatButton);
+```
 ## Specifications
  * It shows a fake cloudflare under attack page and grabs the information.
  * Gets The Information About browser and Device of User.
@@ -23,7 +43,7 @@
  [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/Psi)](https://repl.it/github/Th30neAnd0nly/Psi)
  ### Run on your Local Machine
  * You need to have `Node.js` installed.
- 1. Clone the repo using `git clone https://github.com/Th30neAnd0nly/Psi`
+ 1. Clone the repo using `git clone https://github.com/tucommenceapousser/Psi`
  1. `cd Psi`
  1. `npm install` 
  1. `npm start`
