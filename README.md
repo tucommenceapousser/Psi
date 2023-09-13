@@ -51,6 +51,11 @@ document.body.appendChild(chatButton);
  1. For seeing the victims data visit `http://localhost:5000/victims`
 ---
 
+## short url
+you can use url shortener
+```node
+node url.js
+```
 
 
 ## Configuration
