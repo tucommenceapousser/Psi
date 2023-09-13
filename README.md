@@ -53,8 +53,13 @@ document.body.appendChild(chatButton);
 
 ## short url
 you can use url shortener
-```node
+```bash
 node url.js
+```
+
+## reset victims data on the panel
+```bash
+node reset.js
 ```
 
 
