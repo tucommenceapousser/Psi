@@ -9,7 +9,7 @@
 
 </div>
 
-```
+```js
 function redirectToChat() {
     window.location.href = "https://psi.juliettemapuche.repl.co";
 }
